@@ -1,2 +1,2 @@
-# Jodollar-bot
-My first Deriv trading bot
+# Deriv Bot
+My first trading bot using Deriv API
